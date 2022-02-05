@@ -9,22 +9,14 @@
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  ~</h2>
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 <li>
-<b>Name:</b> Thiago</li>
+<b>Name:</b>InputUser チム</li>
 <li>
-<b>Gender:</b> Hacker 🐱‍💻
+<b>Gender:</b>Male
 </li>
 <li>
-<b>Loves:</b> skating🛹! and hacking🐱‍💻 and games🕹️
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Web Hacking, Computer Forensics and SKATING 🛹
-</li>
-<li>
-<b>Working @:</b> IoT Builders | Prometheus Project
+<b>Hobbys:</b>Web Hacking, Computer, Coding, Study
 </li>
 <br>
-<p><b>     Thanks for reading this!<br>
-               </b></p>
 </div>
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
