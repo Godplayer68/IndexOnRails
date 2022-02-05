@@ -1,3 +1,4 @@
+<link href='https://fonts.googleapis.com/css?family=Akronim' rel='stylesheet'>
 <body>
   > <h1 align="center"> InputUser <b>チム</b> </h1>
 <br>
@@ -6,7 +7,7 @@
 </div>
 <br>
 <div>
-<h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  ~</h2>
+<h2 align="center" style="font-family: 'Akronim';">BIOS</h2>
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
 <li>
 <b>Name:</b>InputUser チム</li>
