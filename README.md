@@ -38,16 +38,11 @@
 </p>
   </div>
 <br>
-<h2>【﻿Ｍｙ　Ｓｏｃｉａｌ　Ｎｅｔｗｏｒｋｓ】</h2>
-<br>
-
-
+<h2 alight="center">【﻿Ｍｙ　Ｓｏｃｉａｌ　Ｎｅｔｗｏｒｋｓ】</h2>
 </div>
 <br>
 <div>
-<h2 align="center" ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h2>
-<div align="center">
-<img src="https://onlyoneonrails.w3spaces.com/github_images/ezgif-6-3053142db7.gif">
+<img src="https://im6.ezgif.com/tmp/ezgif-6-34947136a9.jpg">
 
 </div>
 <hr>
