@@ -1,6 +1,7 @@
 
 <body>
-  > <h1 align="center"> InputUser <b>チム</b> </h1>
+<h1 align="center"> InputUser <b>チム</b> </h1>
+  <h2 align="center">TEAM MKs チム</h2>
 <br>
 <div align="center">
 <img src="https://onlyoneonrails.w3spaces.com/github_images/200w.gif">
@@ -23,6 +24,7 @@
 <p>
 </div>
 <div>
+  <div align="justify">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -33,16 +35,16 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> 
-  <br><br>
-  <p alight="center"> Acquiring new knowledge</p>
+  </div>
+  <p align="left"> Acquiring new knowledge</p>
 </p>
   </div>
 <br>
-<h2 alight="center">【﻿Ｍｙ　Ｓｏｃｉａｌ　Ｎｅｔｗｏｒｋｓ】</h2>
+<h2 align="center">【﻿Ｍｙ　Ｓｏｃｉａｌ　Ｎｅｔｗｏｒｋｓ】</h2>
 </div>
 <br>
-<div>
-<img src="https://im6.ezgif.com/tmp/ezgif-6-34947136a9.jpg">
+<div align="center">
+                                  <img src="https://im6.ezgif.com/tmp/ezgif-6-34947136a9.jpg">
 
 </div>
 <hr>
