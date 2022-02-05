@@ -42,9 +42,9 @@
 <br>
 <p align="center">Here are some of my <br>
 most used social things </p>
-<p align="center"><a href="https://twitter.com/ThiagoShow__" target="_blank"><img src="https://img.shields.io/badge/Thigas%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/4atYGUENhq" target="_blank"><img src="https://img.shields.io/badge/Templo do Thigas%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://www.twitch.tv/thiago_show_" target="_blank"><img src="https://img.shields.io/badge/ThiagoShow%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
-<p align="center"><a href="https://www.instagram.com/thigas_ofc/" target="_blank"><img src="https://img.shields.io/badge/IG THIGAS-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></p>
+<p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/Thigas%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/Templo do Thigas%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/ThiagoShow%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/IG THIGAS-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
