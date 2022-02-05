@@ -1,5 +1,5 @@
 <body>
-> <h1 align="center"> InputUser チム </h1>
+  > <h1 align="center"> InputUser <b>チム</b> </h1>
 <br>
 <div align="center">
 <img src="https://onlyoneonrails.w3spaces.com/github_images/200w.gif">
